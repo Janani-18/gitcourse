@@ -1,6 +1,6 @@
 get the user data...
 process
-create an avatar for user
+
 login and logout
 
 change 1
